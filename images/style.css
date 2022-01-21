@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.background-color{
+    background-color: rgba(250, 150, 113, 0.349);
+    margin-top: 100px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+.margin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.rounded{
+    border: 1px solid red;
+    border-radius:50%;
+}
